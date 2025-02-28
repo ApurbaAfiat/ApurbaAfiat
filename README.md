@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **various frameworks like Django and MERN stack**
 
 - 📫 Reach me at **apurba.afiat@gmail.com**
-
+<img align="right" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e47umcquaqb415qkvcb5bcmll4s83pzx1x3mv0rg0t4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/apurba-afiat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba-afiat" height="30" width="40" /></a>
