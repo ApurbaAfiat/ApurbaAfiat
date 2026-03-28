@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **MERN stack projects**<br>👯 I'm looking to collaborate on **open-source MERN stack applications** and **backend API development projects**<br>🤝 I'm looking for help with **RESTful API best practices**, **JWT authentication**, and **database optimization**<br>🌱 I'm currently learning selenium and postman but in the future I wanna learn about Cloud platforms<br>⚡ Fun fact: **I debug with console.log() and I'm not ashamed!  😄**
+🔭 I'm currently working as a **Software Quality Assurance Engineer** at Life Plus Bangladesh Ltd<br>👯 I'm looking to collaborate on **open-source MERN stack applications** and **backend API development projects**<br>🤝 I'm looking for help with **RESTful API best practices**, **JWT authentication**, and **database optimization**<br>🌱 I'm currently learning selenium and postman but in the future I wanna learn about Cloud platforms<br>⚡ Fun fact: **I debug with console.log() and I'm not ashamed!  😄**
 
 
 ## 🌐 Socials:
